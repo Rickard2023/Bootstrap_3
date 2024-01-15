@@ -1,0 +1,59 @@
+
+
+.custom-position { 
+  position: relative; 
+  top: 50%; 
+  left: 40%; 
+} 
+
+.bg-jumbo {
+    background-color: rgb(117, 80, 225)
+}
+.jumbo-text {
+    position: relative;  
+    left: 270px;
+    top: 200px;
+}
+
+.jumbo-btn-pos {
+  position: relative;  
+  left: 266px;
+  top: 210px;
+}
+
+
+.jumbo-ads {
+  background-color: white;
+  font-size: 30px;
+  padding: 20px;
+  
+}
+
+.bg-bottom {
+  max-width: 920px;
+  background-color: rgb(245, 244, 249);
+}
+
+.fa-bookmark {
+  font-size: 20px;
+  border-color: white;
+}
+
+.fa-bookmark:hover{
+
+  cursor: pointer;
+  background-color:  red;
+  transition: 1s;
+}
+
+.card {
+  margin: 5px;
+}
+.card:hover {
+ 
+  scale: 1.25;
+  z-index: 1;
+  box-shadow: 2px 2px #888888;
+
+  transition: 1s;
+}
